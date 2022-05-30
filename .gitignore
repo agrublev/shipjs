@@ -4,3 +4,4 @@ yarn-error.log
 .env
 website/.vuepress/dist
 .DS_Store
+.idea
